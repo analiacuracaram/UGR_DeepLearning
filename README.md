@@ -1,5 +1,5 @@
 # UGR_DeepLearning
-Trabajo_Practico_N1_Aprendizaje_Profundo
+N1_Aprendizaje_Profundo
 
 Este trabajo se abordó siguiendo la documentación citada en https://www.physionet.org/content/mitdb/1.0.0/
 
